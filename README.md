@@ -18,11 +18,10 @@ This project is a simple **Node.js MVC application** using **Express.js** and **
 - [Notes](#notes)  
 
 ---
-
+```
+```
 ## Project Structure
 
-```
-```
 mvc-project/
 │
 ├─ controllers/
@@ -70,7 +69,7 @@ mvc-project/
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Harshitsriv007/mvc-nodeproject-test.git
 cd mvc-project
 ````
 
