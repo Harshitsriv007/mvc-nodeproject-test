@@ -22,7 +22,7 @@ This project is a simple **Node.js MVC application** using **Express.js** and **
 ## Project Structure
 
 ```
-
+```
 mvc-project/
 │
 ├─ controllers/
@@ -50,7 +50,7 @@ mvc-project/
 ├─ app.js
 ├─ package.json
 └─ README.md
-
+```
 ````
 
 ---
@@ -160,7 +160,3 @@ jest.setTimeout(10000); // 10 seconds
 ## Author
 
 Harshit Srivastava
-
-```
-Do you want me to do that?
-```
